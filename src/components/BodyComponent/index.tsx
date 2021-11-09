@@ -15,7 +15,7 @@ export function BodyComponent() {
       <BoxValorant>
         <Valorant
           className="Valorant"
-          src="/../public/valorant.svg"
+          src="/../public/Valorant.svg"
           alt="valorant"
           width="468"
           height="73"
